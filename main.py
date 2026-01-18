@@ -1,4 +1,4 @@
-from src.layout import main
+from ui.layout import main
 
 import flet as ft
 
